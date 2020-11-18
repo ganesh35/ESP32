@@ -1,6 +1,6 @@
-# Project #1: Blinking LED
+# Project #001: Measuring distance using UltraSonic Sensor
 
-Turn on LED for 300 milli-seconds and turn of for 700 milli-seconds.
+Measuring distance using HC-SR04 Ultrasonic sensor.
 
 - [Parts](#parts)
 - [Schema](#schema)
