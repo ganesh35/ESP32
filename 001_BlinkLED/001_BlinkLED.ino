@@ -3,7 +3,7 @@
   
   Turns an LED on for one second, then off for one second, repeatedly.
   The circuit:
-  - RED LED attached from pin 12 to ground.
+  - RED LED attached from pin 27 to ground.
   
   by more2Learn
 */
