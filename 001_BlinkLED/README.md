@@ -18,9 +18,9 @@ Required parts for this project are:
 
 ## The circuit:
   - RED LED attached from pin 27 to ground.
-
-## Schema
-![The Breadboard](./assets/01_BlinkLED_schemaBreadboard.PNG?raw=true)
+  ![The Breadboard](./assets/01_BlinkLED_schema.PNG?raw=true)
+## The Breadboard
+![The Breadboard](./assets/01_BlinkLED_Breadboard.PNG?raw=true)
 
 ## Code
 ```c
