@@ -4,7 +4,7 @@ Working with multiple LEDs to create a sequence of turning ON and OFF of each LE
 
 - [Tools and Materials](#tools-and-materials)
 - [The circuit](#the-circuit)
-- [Schema](#schema)
+- [The Breadboard](#the-breadboard)
 - [Code](#code)
 - [Conclusion](#conclusion)
 
@@ -21,7 +21,8 @@ Required parts for this project are:
   - Yellow LED attached from pin 14 to ground.
   - Green LED attached from pin 27 to ground.
 
-  ![The Breadboard](./assets/Schema.png?raw=true)
+  ![The circuit](./assets/Schema.png?raw=true)
+
 ## The Breadboard
 ![The Breadboard](./assets/Breadboard.png?raw=true)
 

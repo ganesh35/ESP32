@@ -4,7 +4,7 @@ Turn on LED for one milli-second and turn of for anotehr one milli-second.
 
 - [Tools and Materials](#tools-and-materials)
 - [The circuit](#the-circuit)
-- [Schema](#schema)
+- [The Breadboard](#the-breadboard)
 - [Code](#code)
 - [Conclusion](#conclusion)
 
@@ -19,6 +19,7 @@ Required parts for this project are:
 ## The circuit:
   - RED LED attached from pin 27 to ground.
   ![The Breadboard](./assets/01_BlinkLED_schema.jpg?raw=true)
+  
 ## The Breadboard
 ![The Breadboard](./assets/01_BlinkLED_Breadboard.PNG?raw=true)
 
