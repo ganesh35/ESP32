@@ -1,6 +1,6 @@
 # Blinking an LED with ESP32
 
-Turn on LED for 300 milli-seconds and turn of for 700 milli-seconds.
+Turn on LED for one milli-second and turn of for anotehr one milli-second.
 
 - [Tools and Materials](#tools-and-materials)
 - [The circuit](#the-circuit)
