@@ -30,6 +30,7 @@ Required Software tools for this project are:
 ![Install MQTT Explorer](./assets/01_insall_mqtt_explorer.png?raw=true)
 
 [![Download and Install MQTT Explorer for windows](https://img.youtube.com/vi/hxiqCPJElR4/0.jpg)](https://youtu.be/hxiqCPJElR4)
+[![Download and Install MQTT Explorer for windows](http://img.youtube.com/vi/hxiqCPJElR4/0.jpg)](http://www.youtube.com/watch?v=hxiqCPJElR4)
 
 ### Step #2: Configure
 	- Open MQTT Explorer
